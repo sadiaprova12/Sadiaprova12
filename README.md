@@ -77,8 +77,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadiaprova12&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiaprova12&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiaprova12&layout=compact)
 <!--
 **sadiaprova12/Sadiaprova12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
