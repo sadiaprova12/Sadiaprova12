@@ -1,7 +1,7 @@
 ## Hi there, I'm Sadia Siddika Prova 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/NwIjLxWE8T4jZP32iT/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/NwIjLxWE8T4jZP32iT/giphy.gif" width="250"/>
 </div>
 
 
