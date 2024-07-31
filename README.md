@@ -9,7 +9,7 @@
     <a href="https://www.linkedin.com/in/sadia-siddika-prova-1295b7251/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
-  <a href="your-youtube-URL">
+  <a href="https://youtube.com/@moodswings7242?si=oAEI5h0wdP7mvOS4">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
   <a href="your-twitter-URL">
