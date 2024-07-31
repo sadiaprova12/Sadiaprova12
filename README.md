@@ -74,7 +74,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadiaprova12&theme=radical&show_icons=true)
 
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiaprova12&theme=radical&layout=compact" />
-   <br/>
+   </br>
       <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sadiaprova12&theme=radical" />
 </div>
 
