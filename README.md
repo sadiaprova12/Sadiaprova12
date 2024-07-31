@@ -73,7 +73,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadiaprova12&theme=radical&show_icons=true)
 
 
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiaprova12&theme=algolia&layout=compact" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiaprova12&theme=radical&layout=compact" />
 <!--
 **sadiaprova12/Sadiaprova12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
