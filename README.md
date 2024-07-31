@@ -70,9 +70,9 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <p align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadiaprova12&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadiaprova12&theme=radical&show_icons=true)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadiaprova12&theme=radical&show_icons=true)
+</p>
 
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiaprova12&theme=radical&layout=compact" />
    <br/>
