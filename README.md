@@ -18,7 +18,7 @@
 </div>
 
 
-<img src="https://komarev.com/ghpvc/?username=sadiaprova12&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 <div align="center">
   <img src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" width="400" height="300"/>
