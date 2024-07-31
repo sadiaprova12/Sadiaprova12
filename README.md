@@ -32,6 +32,10 @@
 </div>
 
 
+---
+
+### :woman_technologist: About Me :
+
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
@@ -42,6 +46,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sadia-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
